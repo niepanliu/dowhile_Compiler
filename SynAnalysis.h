@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 
-struct elem
+struct elem 
 {
     char str[10];
     char mes[10];
