@@ -5,7 +5,7 @@
 
 enum TYPE {
     number, variable, 
-};
+}; 
 
 int tempindex = 63;
 
