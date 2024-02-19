@@ -28,7 +28,7 @@ int main(int argc,char *argv[])
     
     std::stack<elem> tempa;
     FILE* frd;
-    frd = fopen("hello.txt", "r");
+    frd = fopen("test.txt", "r");
     char lineBuffer[100];
     while (fgets(lineBuffer, sizeof(lineBuffer), frd)) {
         elem temp;
