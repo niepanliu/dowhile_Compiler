@@ -6,7 +6,7 @@
 #include "SynAnalysis.h"
 #include "LexAnalysis.h"
 
-int gettablerow(char* a);
+int gettablerow(char* a); 
 int gettablecol(char* a);
 int getsize(char** a);
 void show(Node* head, char* pre);
